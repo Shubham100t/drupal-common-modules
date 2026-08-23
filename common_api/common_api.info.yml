@@ -1,0 +1,6 @@
+name: 'Common API'
+type: module
+description: 'Shared API module from central GitHub repository.'
+package: 'Custom - Common'
+core_version_requirement: ^10 || ^11
+version: '1.0.0'

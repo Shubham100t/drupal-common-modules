@@ -1,0 +1,7 @@
+common_api.status:
+  path: '/common/api-status'
+  defaults:
+    _controller: '\Drupal\common_api\Controller\ApiController::status'
+    _title: 'Central Common API'
+  requirements:
+    _access: 'TRUE'
