@@ -1,0 +1,8 @@
+{
+  "name": "custom/common-modules",
+  "type": "drupal-custom-module",
+  "description": "Shared dependencies for central common modules",
+  "require": {
+    "drupal/token": "^1.13"
+  }
+}
